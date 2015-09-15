@@ -9,9 +9,9 @@
 		<relativePath>../spring-parent/pom.xml</relativePath>
 	</parent>
 
-	<artifactId>spring-restful</artifactId>
-	<name>Spring Restful</name>
-	<description>Spring for RESTful</description>
+	<artifactId>spring-jpa</artifactId>
+	<name>Spring JPA</name>
+	<description>Spring for JPA</description>
 
 	<dependencies>
 		<dependency>
